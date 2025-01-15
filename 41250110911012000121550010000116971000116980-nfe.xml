@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<NFe xmlns ="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe41250110911012000121550010000116971000116980" versao="4.00">
+<ide>
+   <cUF>41</cUF>
+   <cNF>00011698</cNF>
+   <natOp>5102 - VENDA DE MERCADORIA</natOp>
+   <mod>55</mod>
+   <serie>1</serie>
+   <nNF>11697</nNF>
+   <dhEmi>2025-01-13T16:20:26-03:00</dhEmi>
+   <dhSaiEnt>2025-01-13T16:20:26-03:00</dhSaiEnt>
+   <tpNF>1</tpNF>
+   <idDest>1</idDest>
+   <cMunFG>4122404</cMunFG>
+   <tpImp>1</tpImp>
+   <tpEmis>1</tpEmis>
+   <cDV>0</cDV>
+   <tpAmb>1</tpAmb>
+   <finNFe>1</finNFe>
+   <indFinal>0</indFinal>
+   <indPres>9</indPres>
+   <indIntermed>0</indIntermed>
+   <procEmi>0</procEmi>
+   <verProc>2.1.1</verProc>
+</ide>
+<emit>
+   <CNPJ>10911012000121</CNPJ>
+   <xNome>GIRA PORCO COMERCIO DE CARNES LTDA</xNome>
+   <xFant>GIRA PORCO</xFant>
+   <enderEmit>
+      <xLgr>RUA TEIXEIRA DE FREITAS</xLgr>
+      <nro>363</nro>
+      <xCpl>APTO 01</xCpl>
+      <xBairro>JARDIM CAVIUNA</xBairro>
+      <cMun>4122404</cMun>
+      <xMun>ROLANDIA</xMun>
+      <UF>PR</UF>
+      <CEP>86605184</CEP>
+      <cPais>1058</cPais>
+      <xPais>BRASIL</xPais>
+      <fone>04391586648</fone>
+    </enderEmit>
+   <IE>9064044009</IE>
+   <IM>0</IM>
+   <CNAE>4634601</CNAE>
+   <CRT>3</CRT>
+</emit>
+<dest>
+   <CNPJ>32698124000189</CNPJ>
+   <xNome>A ECHAMENDI - DISTRIBUIDORA DE CARNES - EIRELI</xNome>
+   <enderDest>
+      <xLgr>RUA BRIGADEIRO FRANCO</xLgr>
+      <nro>227</nro>
+      <xCpl>A</xCpl>
+      <xBairro>JARDIM FORTALEZA</xBairro>
+      <cMun>4113700</cMun>
+      <xMun>LONDRINA</xMun>
+      <UF>PR</UF>
+      <CEP>86079070</CEP>
+      <cPais>1058</cPais>
+      <xPais>BRASIL</xPais>
+    </enderDest>
+   <indIEDest>1</indIEDest>
+   <IE>9080390685</IE>
+</dest>
+<det nItem="1">
+   <prod>
+      <cProd>469</cProd>
+      <cEAN></cEAN>
+      <xProd>CARCACA BOVINA (AB)</xProd>
+      <NCM>02011000</NCM>
+      <cBenef>PR820007</cBenef>
+      <CFOP>5102</CFOP>
+      <uCom>KG</uCom>
+      <qCom>2506.0000</qCom>
+      <vUnCom>18.1400000000</vUnCom>
+      <vProd>45458.84</vProd>
+      <cEANTrib></cEANTrib>
+      <uTrib>KG</uTrib>
+      <qTrib>2506.0000</qTrib>
+      <vUnTrib>18.1400000000</vUnTrib>
+      <indTot>1</indTot>
+   </prod>
+   <imposto>
+      <ICMS>
+         <ICMS20>
+            <orig>0</orig>
+            <CST>20</CST>
+            <modBC>3</modBC>
+            <pRedBC>41.67</pRedBC>
+            <vBC>26516.14</vBC>
+            <pICMS>12.00</pICMS>
+            <vICMS>3181.94</vICMS>
+         </ICMS20>
+      </ICMS>
+      <PIS>
+         <PISNT>
+            <CST>06</CST>
+         </PISNT>
+      </PIS>
+      <COFINS>
+         <COFINSNT>
+            <CST>06</CST>
+         </COFINSNT>
+      </COFINS>
+   </imposto>
+</det>
+<det nItem="2">
+   <prod>
+      <cProd>368</cProd>
+      <cEAN></cEAN>
+      <xProd>FIGADO BOVINO</xProd>
+      <NCM>02062200</NCM>
+      <cBenef>PR820007</cBenef>
+      <CFOP>5102</CFOP>
+      <uCom>KG</uCom>
+      <qCom>200.0000</qCom>
+      <vUnCom>6.7600000000</vUnCom>
+      <vProd>1352.00</vProd>
+      <cEANTrib></cEANTrib>
+      <uTrib>KG</uTrib>
+      <qTrib>200.0000</qTrib>
+      <vUnTrib>6.7600000000</vUnTrib>
+      <indTot>1</indTot>
+   </prod>
+   <imposto>
+      <ICMS>
+         <ICMS20>
+            <orig>0</orig>
+            <CST>20</CST>
+            <modBC>3</modBC>
+            <pRedBC>41.67</pRedBC>
+            <vBC>788.62</vBC>
+            <pICMS>12.00</pICMS>
+            <vICMS>94.63</vICMS>
+         </ICMS20>
+      </ICMS>
+      <PIS>
+         <PISNT>
+            <CST>06</CST>
+         </PISNT>
+      </PIS>
+      <COFINS>
+         <COFINSNT>
+            <CST>06</CST>
+         </COFINSNT>
+      </COFINS>
+   </imposto>
+</det>
+<det nItem="3">
+   <prod>
+      <cProd>406</cProd>
+      <cEAN></cEAN>
+      <xProd>CARNE BOV. RESF. S/O FRALDINHA FD</xProd>
+      <NCM>02013000</NCM>
+      <cBenef>PR820007</cBenef>
+      <CFOP>5102</CFOP>
+      <uCom>KG</uCom>
+      <qCom>19.7500</qCom>
+      <vUnCom>21.2000000000</vUnCom>
+      <vProd>418.70</vProd>
+      <cEANTrib></cEANTrib>
+      <uTrib>KG</uTrib>
+      <qTrib>19.7500</qTrib>
+      <vUnTrib>21.2000000000</vUnTrib>
+      <indTot>1</indTot>
+   </prod>
+   <imposto>
+      <ICMS>
+         <ICMS20>
+            <orig>0</orig>
+            <CST>20</CST>
+            <modBC>3</modBC>
+            <pRedBC>41.67</pRedBC>
+            <vBC>244.23</vBC>
+            <pICMS>12.00</pICMS>
+            <vICMS>29.31</vICMS>
+         </ICMS20>
+      </ICMS>
+      <PIS>
+         <PISNT>
+            <CST>06</CST>
+         </PISNT>
+      </PIS>
+      <COFINS>
+         <COFINSNT>
+            <CST>06</CST>
+         </COFINSNT>
+      </COFINS>
+   </imposto>
+</det>
+<det nItem="4">
+   <prod>
+      <cProd>284</cProd>
+      <cEAN></cEAN>
+      <xProd>PERNIL SUINO INTEIRO C/PELE</xProd>
+      <NCM>02031900</NCM>
+      <cBenef>PR820007</cBenef>
+      <CFOP>5102</CFOP>
+      <uCom>KG</uCom>
+      <qCom>300.0000</qCom>
+      <vUnCom>18.0200000000</vUnCom>
+      <vProd>5406.00</vProd>
+      <cEANTrib></cEANTrib>
+      <uTrib>KG</uTrib>
+      <qTrib>300.0000</qTrib>
+      <vUnTrib>18.0200000000</vUnTrib>
+      <indTot>1</indTot>
+   </prod>
+   <imposto>
+      <ICMS>
+         <ICMS20>
+            <orig>0</orig>
+            <CST>20</CST>
+            <modBC>3</modBC>
+            <pRedBC>41.67</pRedBC>
+            <vBC>3153.32</vBC>
+            <pICMS>12.00</pICMS>
+            <vICMS>378.40</vICMS>
+         </ICMS20>
+      </ICMS>
+      <PIS>
+         <PISNT>
+            <CST>06</CST>
+         </PISNT>
+      </PIS>
+      <COFINS>
+         <COFINSNT>
+            <CST>06</CST>
+         </COFINSNT>
+      </COFINS>
+   </imposto>
+</det>
+<det nItem="5">
+   <prod>
+      <cProd>284</cProd>
+      <cEAN></cEAN>
+      <xProd>PERNIL SUINO INTEIRO C/PELE</xProd>
+      <NCM>02031900</NCM>
+      <cBenef>PR820007</cBenef>
+      <CFOP>5102</CFOP>
+      <uCom>KG</uCom>
+      <qCom>200.0000</qCom>
+      <vUnCom>18.0200000000</vUnCom>
+      <vProd>3604.00</vProd>
+      <cEANTrib></cEANTrib>
+      <uTrib>KG</uTrib>
+      <qTrib>200.0000</qTrib>
+      <vUnTrib>18.0200000000</vUnTrib>
+      <indTot>1</indTot>
+   </prod>
+   <imposto>
+      <ICMS>
+         <ICMS20>
+            <orig>0</orig>
+            <CST>20</CST>
+            <modBC>3</modBC>
+            <pRedBC>41.67</pRedBC>
+            <vBC>2102.21</vBC>
+            <pICMS>12.00</pICMS>
+            <vICMS>252.27</vICMS>
+         </ICMS20>
+      </ICMS>
+      <PIS>
+         <PISNT>
+            <CST>06</CST>
+         </PISNT>
+      </PIS>
+      <COFINS>
+         <COFINSNT>
+            <CST>06</CST>
+         </COFINSNT>
+      </COFINS>
+   </imposto>
+</det>
+<total>
+   <ICMSTot>
+      <vBC>32804.52</vBC>
+      <vICMS>3936.55</vICMS>
+      <vICMSDeson>0.00</vICMSDeson>
+      <vFCP>0.00</vFCP>
+      <vBCST>0.00</vBCST>
+      <vST>0.00</vST>
+      <vFCPST>0.00</vFCPST>
+      <vFCPSTRet>0.00</vFCPSTRet>
+      <vProd>56239.54</vProd>
+      <vFrete>0.00</vFrete>
+      <vSeg>0.00</vSeg>
+      <vDesc>0.00</vDesc>
+      <vII>0.00</vII>
+      <vIPI>0.00</vIPI>
+      <vIPIDevol>0.00</vIPIDevol>
+      <vPIS>0.00</vPIS>
+      <vCOFINS>0.00</vCOFINS>
+      <vOutro>0.00</vOutro>
+      <vNF>56239.54</vNF>
+   </ICMSTot>
+</total>
+<transp>
+   <modFrete>1</modFrete>
+   <vol>
+      <esp>CAIXA</esp>
+      <pesoL>3225.750</pesoL>
+      <pesoB>3225.750</pesoB>
+   </vol>
+</transp>
+<pag>
+   <detPag>
+      <tPag>01</tPag>
+      <vPag>56239.54</vPag>
+   </detPag>
+</pag>
+<infAdic>
+   <infCpl>BASE CALCULO REDUZIDA CFE. ITEM VII ANEXO VI DECRETO 7871/17 RICMS PR E PIS/COFINS COM ALIQUOTA ZERO MP 609 DE 08/03/2013.</infCpl>
+</infAdic>
+   <infRespTec>
+      <CNPJ>23382106000100</CNPJ>
+      <xContato>ELOISIO CARLOS DE SOUZA</xContato>
+      <email>eloisio@elosoftware.com.br</email>
+      <fone>4330515656</fone>
+   </infRespTec>
+</infNFe>
+</NFe>
